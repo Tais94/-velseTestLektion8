@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/ghostIce.png</File>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/Player.png</File>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/CollisionTexture.png</File>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/deerf.png</File>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/deerm.png</File>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/trees.png</File>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/birds.png</File>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/RuneTable.png</File>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/TabletsSheet.png</File>
+    <File>C:/Users/Computer/Desktop/grenå dania/2 semester/FrameWorks/Projekt Frozen/MyFirstProject/Project/Game1/Game1/Content/AlterSheet.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game1", "Game1\Game1.csproj", "{E3185E9F-C4C4-45F9-B377-0A54EC901FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3185E9F-C4C4-45F9-B377-0A54EC901FEC}.Debug|x86.ActiveCfg = Debug|x86
+		{E3185E9F-C4C4-45F9-B377-0A54EC901FEC}.Debug|x86.Build.0 = Debug|x86
+		{E3185E9F-C4C4-45F9-B377-0A54EC901FEC}.Release|x86.ActiveCfg = Release|x86
+		{E3185E9F-C4C4-45F9-B377-0A54EC901FEC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://frameprojectuge9-10.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Game1\\Game1.csproj
+		SccProjectName1 = Game1
+		SccLocalPath1 = Game1
+	EndGlobalSection
+EndGlobal
